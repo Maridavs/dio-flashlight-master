@@ -1,4 +1,4 @@
-# dio-flashlight
+#repositorio-flashlight
 
 Desafio dio: Construindo um app usando o sensor de movimento com React Native
 
@@ -16,3 +16,5 @@ Desafio dio: Construindo um app usando o sensor de movimento com React Native
 - Hook useEffect
 - Add Listener to RNShake
 - Lifecicly ReactJS
+
+## Disponibilizado por Marihá David 
